@@ -15,8 +15,6 @@ Detailed experimental results are presented in the [supplementary material](ICAS
   <img src="data/architect.jpg" alt="Model architecture" width="60%">
 </p>
 
-Due to permission reasons, we cannot open source the patient's original BOLD signal. This demo uses the ABIDE dataset pre-processed by the JNGC method, which contains 1090 samples for training.
-
 ---
 
 ## Repository Structure
